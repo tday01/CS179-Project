@@ -3,12 +3,12 @@
 The system, named Vigil, is comprised of a jetson nano device that identifies student faces
 and a Firebase database that stores attendance data.
 
-#### ML_assess_risk.ipynb
+#### [ML_assess_risk.ipynb](https://github.com/tday01/CS179-Project/blob/master/ML_assess_risk.ipynb)
 
 Program demonstrates theoretical test case of how machine learning can be used to assess and identify students
 for chronic absenteeism risk.
 
-#### attendv13.py
+#### [attendv13.py](https://github.com/tday01/CS179-Project/blob/master/attendv13.py)
 
 Implementation for device to identify student faces and transmit name & timestamp to database.
 
