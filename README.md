@@ -3,6 +3,15 @@
 The system, named Vigil, is comprised of a jetson nano device that identifies student faces
 and a Firebase database that stores attendance data.
 
+#### ML_assess_risk.ipynb
+
+Program demonstrates theoretical test case of how machine learning can be used to assess and identify students
+for chronic absenteeism risk.
+
+#### attendv13.py
+
+Implementation for device to identify student faces and transmit name & timestamp to database.
+
 **\*This repository is in progress with further code submission to follow**
 
 Vigil is an automated attendance system that uses face recognition technology to identify and log students preregistered with the system. Automating the attendance process increases classroom productivity, but most importantly, allows for robust and consistent records of student attendance. [According to the United States Department of Education (USDE)](https://www2.ed.gov/datastory/chronicabsenteeism.html), chronic absenteeism affects more than 7 million students each year that miss a month or more of school. The USDE has declared chronic absenteeism a hidden educational crisis. Vigil not only automates the process of classroom attendance, but also detects patterns in student absences & late arrivals that are associated with chronic absenteeism. The goal of Vigil is early identification of students developing a pattern implicative of future chronic absenteeism. With this data, the school’s administration may take corrective action before the student/parent behavior becomes habitual and more difficult to correct.
