@@ -12,7 +12,9 @@ Implementation for device to identify student faces and transmit name & timestam
 Program demonstrates theoretical test case of how machine learning can be used to assess and identify students
 for chronic absenteeism risk.
 
-**\*This repository is in progress with further code submission to follow**
+#### [website_database](https://github.com/tday01/CS179-Project/tree/master/website_database)
+
+Folder contains implementation for database access, website host, user authentication, and account registration. This portion of the project was completed by teammates Jonathan and Chris.
 
 ## Abstract
 
