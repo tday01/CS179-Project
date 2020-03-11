@@ -7,7 +7,7 @@ and a Firebase database that stores attendance data.
 
 Implementation for device to identify student faces and transmit name & timestamp to database.
 
-#### [ML_assess_risk.ipynb](https://github.com/tday01/CS179-Project/blob/master/ML_assess_risk.ipynb)
+#### [ML_absentee_risk.ipynb](https://github.com/tday01/CS179-Project/blob/master/ML_assess_risk.ipynb)
 
 Program demonstrates theoretical test case of how machine learning can be used to assess and identify students
 for chronic absenteeism risk.
