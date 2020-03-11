@@ -1,4 +1,4 @@
-# CS179 - Senior Design Project: Vigil
+# Senior Design Project: Vigil
 
 The system, named Vigil, is comprised of a jetson nano device that identifies student faces
 and a Firebase database that stores attendance data.
