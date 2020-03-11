@@ -1,0 +1,15 @@
+{% extends "layout.html" %}
+{% block content %}
+    <h1>Roster</h1>
+        <!--<form action="" method="post">
+        </form>-->
+        <div>
+            {% for list in events %}
+                <ul>
+                    <li>
+                        {{ list }}
+                    </li>
+                </ul>
+            {% endfor %}
+        </div>
+{% endblock content %}
